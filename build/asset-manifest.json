@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ad59662.css",
+    "main.js": "/static/js/main.602e53df.js",
+    "static/media/receitaFood.svg": "/static/media/receitaFood.43d463b35dabb4004de499fa4efd8bb0.svg",
+    "static/media/logo.png": "/static/media/logo.7f4ad8e90b84338791a6.png",
+    "index.html": "/index.html",
+    "main.7ad59662.css.map": "/static/css/main.7ad59662.css.map",
+    "main.602e53df.js.map": "/static/js/main.602e53df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ad59662.css",
+    "static/js/main.602e53df.js"
+  ]
+}
